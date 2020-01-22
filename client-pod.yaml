@@ -7,6 +7,6 @@ metadata:
 spec:
   containers: 
     - name: client
-      image: mcleanmusa/complex-client
+      image: mcleanmusa/complex-worker
       ports:
         - containerPort: 3000
